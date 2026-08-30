@@ -1,0 +1,48 @@
+.logo-switches {
+    flex-wrap: inherit;
+    display: inline-flex;
+    margin: auto 4px;
+    display: flex;
+    margin: auto var(--gap);
+    flex-wrap: inherit;
+}
+
+html.dark #moon {
+    vertical-align: middle;
+}
+
+html.dark #moon,
+html:not(.dark) #sun {
+    display: none;
+}
+
+.logo-switches a svg {
+    display: inline;
+    vertical-align: middle;
+    pointer-events: none;
+    transform: translate(0, -10%);
+    border-radius: 6px;
+    margin-inline-end: 8px;
+}
+
+.toggle-button {
+    padding: 0;
+    border: 0;
+}
+
+button#theme-toggle {
+    font-size: 14px;
+    margin: auto 4px;
+    position: relative;
+    line-height: 6.5rem;
+    float: left;
+    margin-right: 1rem;
+    margin-top: 0.1rem;
+}
+
+.navbar-theme-toggle {
+    position: relative;
+    float: left;
+    margin-right: 1rem;
+    margin-top: 0.1rem;
+}

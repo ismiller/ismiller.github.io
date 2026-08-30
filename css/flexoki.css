@@ -1,0 +1,94 @@
+:root {
+  /* Основные цвета */
+  --flexoki-black: #100F0F;
+  --flexoki-paper: #FFFCF0;
+
+  /* Базовая палитра */
+  --flexoki-base-50: #F2F0E5;
+  --flexoki-base-100: #E6E4D9;
+  --flexoki-base-150: #DAD8CE;
+  --flexoki-base-200: #CECDC3;
+  --flexoki-base-300: #B7B5AC;
+  --flexoki-base-400: #9F9D96;
+  --flexoki-base-500: #878580;
+  --flexoki-base-600: #6F6E69;
+  --flexoki-base-700: #575653;
+  --flexoki-base-800: #403E3C;
+  --flexoki-base-850: #343331;
+  --flexoki-base-900: #282726;
+  --flexoki-base-950: #1C1B1A;
+
+  /* Акцентные цвета */
+  --flexoki-red-400: #D14D41;
+  --flexoki-red-600: #AF3029;
+  --flexoki-orange-400: #DA702C;
+  --flexoki-orange-600: #BC5215;
+  --flexoki-yellow-400: #D0A215;
+  --flexoki-yellow-600: #AD8301;
+  --flexoki-green-400: #879A39;
+  --flexoki-green-600: #66800B;
+  --flexoki-cyan-400: #3AA99F;
+  --flexoki-cyan-600: #24837B;
+  --flexoki-blue-400: #0FA0CE;
+  --flexoki-blue-600: #205EA6;
+  --flexoki-purple-400: #8B7EC8;
+  --flexoki-purple-600: #5E409D;
+  --flexoki-magenta-400: #CE5D97;
+  --flexoki-magenta-600: #A02F6F;
+}
+
+:root {
+    --font-text:
+        "PT Mono",
+        ui-monospace,
+        "Cascadia Mono",
+        Consolas,
+        monospace;
+
+    --font-accent:
+        "Ubuntu Mono",
+        ui-monospace,
+        "Cascadia Mono",
+        Consolas,
+        monospace;
+}
+
+.light {
+  --flexoki-bg: var(--flexoki-paper);
+  --flexoki-bg-2: var(--flexoki-base-50);
+  --flexoki-ui: var(--flexoki-base-100);
+  --flexoki-ui-2: var(--flexoki-base-150);
+  --flexoki-ui-3: var(--flexoki-base-200);
+  --flexoki-tx: var(--flexoki-black);
+  --flexoki-tx-2: var(--flexoki-base-600);
+  --flexoki-tx-3: var(--flexoki-base-300);
+}
+
+.dark {
+  --flexoki-bg: var(--flexoki-black);
+  --flexoki-bg-2: var(--flexoki-base-950);
+  --flexoki-ui: var(--flexoki-base-900);
+  --flexoki-ui-2: var(--flexoki-base-850);
+  --flexoki-ui-3: var(--flexoki-base-800);
+  --flexoki-tx: var(--flexoki-base-200);
+  --flexoki-tx-2: var(--flexoki-base-500);
+  --flexoki-tx-3: var(--flexoki-base-700);
+}
+
+.bg.fbg { background: var(--flexoki-bg); }
+.bg-2.fbg { background: var(--flexoki-bg-2); }
+.ui.fbg { background: var(--flexoki-ui); }
+.ui-2.fbg { background: var(--flexoki-ui-2); }
+.ui-3.fbg { background: var(--flexoki-ui-3); }
+.tx.fbg { background: var(--flexoki-tx); }
+.tx-2.fbg { background: var(--flexoki-tx-2); }
+.tx-3.fbg { background: var(--flexoki-tx-3); }
+
+.bg.ffg { color: var(--flexoki-bg); }
+.bg-2.ffg { color: var(--flexoki-bg-2); }
+.ui.ffg { color: var(--flexoki-ui); }
+.ui-2.ffg { color: var(--flexoki-ui-2); }
+.ui-3.ffg { color: var(--flexoki-ui-3); }
+.tx.ffg { color: var(--flexoki-tx); }
+.tx-2.ffg { color: var(--flexoki-tx-2); }
+.tx-3.ffg { color: var(--flexoki-tx-3); }

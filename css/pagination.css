@@ -1,0 +1,26 @@
+.pagination-container {
+    list-style: none;
+}
+
+.pagination-item {
+    position: relative;
+    float: left;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 0; 
+    margin-top: 0; 
+    padding: 0;
+}
+
+.pagination-link {
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    letter-spacing: .2rem;
+    text-decoration: none;
+    color: var(--flexoki-tx-2); 
+    margin: 0;
+}
+
+.pagination-is-current {
+    font-size: 1.6rem;
+}

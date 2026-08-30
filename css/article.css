@@ -1,0 +1,54 @@
+.article-section,
+.article-content {
+    padding-top: 0;
+}
+
+.article-section img {
+    width: 100%;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+.article-content li,
+.article-content ol
+{
+    padding-left: 2rem;
+}
+
+.article-content table {
+    letter-spacing: 0.4rem;
+}
+
+.article-content h2,
+.article-content h3,
+.article-content h4,
+.article-content h5,
+.article-content h6 {
+  margin: 30px 0 0 0;
+}
+
+.article-content table,
+.article-content .highlight pre {
+    background: var(--flexoki-bg) !important;
+    color: var(--flexoki-tx) !important;
+}
+
+.pl-5 {
+    padding-left: 10px;
+}
+
+.pl-4 {
+    padding-left: 8px;
+}
+
+.pl-3 {
+    padding-left: 6px;
+}
+
+.pl-2 {
+    padding-left: 4px;
+}
+
+.pl-1 {
+    padding-left: 2px;
+}

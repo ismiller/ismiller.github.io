@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>2023 on MILLER</title>
+		<link>https://mllr.blog/ru/journal/2023/</link>
+		<description>Recent content in 2023 on MILLER</description>
+		<generator>Hugo</generator>
+		<language>ru-RU</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 01 Dec 2023 12:53:50 +0700</lastBuildDate>
+		
+			<atom:link href="https://mllr.blog/ru/journal/2023/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>2</title>
+				<link>https://mllr.blog/ru/journal/2023/12/01/</link>
+				<pubDate>Fri, 01 Dec 2023 12:53:50 +0700</pubDate>
+				<guid>https://mllr.blog/ru/journal/2023/12/01/</guid>
+				<description>&lt;p&gt;Первый день зимы. Непривычно для Питера за окном лежит снег - сантиметров тридцать насыпало за несколько дней.&#xA;Аборигены из числа моих коллег говорят, что такое здесь было последний раз лет семь назад. Тогда я в питере еще не жил.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>1</title>
+				<link>https://mllr.blog/ru/journal/2023/11/28/</link>
+				<pubDate>Tue, 28 Nov 2023 12:41:03 +0700</pubDate>
+				<guid>https://mllr.blog/ru/journal/2023/11/28/</guid>
+				<description>&lt;p&gt;Весь вечер и всю ночь сыпал снег и выла метель. Выпало сантиметров десять и с самого утра дворник скребет дорожки лопатой.&lt;br&gt;&#xA;Стоял у теплой батареи, смотрел в холодное окно, как люди бредут в свете фонарей по заметенным дорожкам. Смотрел и радовался, что мне не нужно никуда идти.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
