@@ -235,7 +235,7 @@
 				<link>https://mllr.blog/en/site/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>https://mllr.blog/en/site/</guid>
-				<description>&lt;p&gt;This site is fully implemented using the static site generator [Hugo] at the time of May 2026 (&lt;a href=&#34;https://gohugo.io&#34;&gt;https://gohugo.io&lt;/a&gt; ).&lt;br&gt;&#xA;I&amp;rsquo;m not a front-end developer or a designer, but I tried to implement a blog view that would fully satisfy me without resorting to&#xA;using ready-made templates or themes.&lt;br&gt;&#xA;The minimalistic framework [skeleton] was taken as the basis of css (and significantly changed)(&lt;a href=&#34;https://stephango.com&#34;&gt;https://stephango.com&lt;/a&gt; ).&lt;br&gt;&#xA;For the color scheme, with the exception of minor changes, use &lt;a href=&#34;https://stephango.com/flexoki&#34;&gt;Flexoki&lt;/a&gt; by &lt;a href=&#34;https://stephango.com&#34;&gt;kepano&lt;/a&gt;.&lt;/p&gt;</description>
+				<description>&lt;p&gt;This site is fully implemented using the static site generator &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; at the time of May 2026 .&lt;br&gt;&#xA;I&amp;rsquo;m not a front-end developer or a designer, but I tried to implement a blog view that would fully satisfy me without resorting to&#xA;using ready-made templates or themes.&lt;br&gt;&#xA;The minimalistic framework &lt;a href=&#34;https://stephango.com&#34;&gt;skeleton&lt;/a&gt; was taken as the basis of css (and significantly changed).&lt;br&gt;&#xA;For the color scheme, with the exception of minor changes, use &lt;a href=&#34;https://stephango.com/flexoki&#34;&gt;Flexoki&lt;/a&gt; by &lt;a href=&#34;https://stephango.com&#34;&gt;kepano&lt;/a&gt;.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
