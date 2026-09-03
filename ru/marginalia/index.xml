@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>marginalia on MILLER</title>
+		<link>https://mllr.blog/ru/marginalia/</link>
+		<description>Recent content in marginalia on MILLER</description>
+		<generator>Hugo</generator>
+		<language>ru-RU</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 21 Aug 2026 13:20:15 +0700</lastBuildDate>
+		
+			<atom:link href="https://mllr.blog/ru/marginalia/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>2026</title>
+				<link>https://mllr.blog/ru/marginalia/2026/</link>
+				<pubDate>Fri, 21 Aug 2026 13:20:15 +0700</pubDate>
+				<guid>https://mllr.blog/ru/marginalia/2026/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2025</title>
+				<link>https://mllr.blog/ru/marginalia/2025/</link>
+				<pubDate>Fri, 12 Dec 2025 22:21:15 +0700</pubDate>
+				<guid>https://mllr.blog/ru/marginalia/2025/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
